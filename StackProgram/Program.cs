@@ -14,6 +14,10 @@ namespace StackProgram
             queue.Enqueue(30);
             queue.Enqueue(70);
             queue.Display();
+            queue.Dequeue();
+
+            queue.IsEmpty();
+            queue.Display();
 
 
 
