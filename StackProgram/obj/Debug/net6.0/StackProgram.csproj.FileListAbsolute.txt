@@ -1,0 +1,15 @@
+C:\Users\vindy\source\repos\StackProgram\StackProgram\bin\Debug\net6.0\StackProgram.exe
+C:\Users\vindy\source\repos\StackProgram\StackProgram\bin\Debug\net6.0\StackProgram.deps.json
+C:\Users\vindy\source\repos\StackProgram\StackProgram\bin\Debug\net6.0\StackProgram.runtimeconfig.json
+C:\Users\vindy\source\repos\StackProgram\StackProgram\bin\Debug\net6.0\StackProgram.dll
+C:\Users\vindy\source\repos\StackProgram\StackProgram\bin\Debug\net6.0\ref\StackProgram.dll
+C:\Users\vindy\source\repos\StackProgram\StackProgram\bin\Debug\net6.0\StackProgram.pdb
+C:\Users\vindy\source\repos\StackProgram\StackProgram\obj\Debug\net6.0\StackProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vindy\source\repos\StackProgram\StackProgram\obj\Debug\net6.0\StackProgram.AssemblyInfoInputs.cache
+C:\Users\vindy\source\repos\StackProgram\StackProgram\obj\Debug\net6.0\StackProgram.AssemblyInfo.cs
+C:\Users\vindy\source\repos\StackProgram\StackProgram\obj\Debug\net6.0\StackProgram.csproj.CoreCompileInputs.cache
+C:\Users\vindy\source\repos\StackProgram\StackProgram\obj\Debug\net6.0\StackProgram.dll
+C:\Users\vindy\source\repos\StackProgram\StackProgram\obj\Debug\net6.0\ref\StackProgram.dll
+C:\Users\vindy\source\repos\StackProgram\StackProgram\obj\Debug\net6.0\StackProgram.pdb
+C:\Users\vindy\source\repos\StackProgram\StackProgram\obj\Debug\net6.0\StackProgram.genruntimeconfig.cache
+C:\Users\vindy\source\repos\StackProgram\StackProgram\obj\Debug\net6.0\StackProgram.csproj.AssemblyReference.cache
